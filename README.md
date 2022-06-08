@@ -1,5 +1,5 @@
 # jDos
-Dos atteck against any wifi without password
+Dos attack against any wifi without password
 
 
 Step:1 --git clone www.github.com/jasim0021/jDos'
